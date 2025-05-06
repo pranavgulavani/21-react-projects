@@ -4,7 +4,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
 
   return (
-    <h1>21 React Projects</h1>
+    <div className='container-fluid'>
+      <h3 className='text-center'>React Projects</h3>
+    </div>
   )
 }
 
